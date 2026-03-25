@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ArenasITSE/ArenasITSE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```yaml
+name: Eduardo Arenas Interian
+title: Ingeniero en Sistemas
 
-Here are some ideas to get you started:
+current_job: 
+company: Tecnológico Nacional de México Campus Escarcega
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+education:
+  degree: Ingeniería en Sistemas
+  institution: Tecnológico Nacional de México 
+
+fields_of_interest:
+  [
+    "Desarrollo Web",
+    "Aplicaciones con Streamlit",
+    "Automatización",
+    "UX/UI"
+  ]
+
+technical_background:
+  [
+    "Python",
+    "Streamlit",
+    "HTML/CSS",
+    "Bases de Datos",
+    "Git & GitHub"
+  ]
+
+currently_learning:
+  [
+    "Django",
+    "APIs",
+    "Deploy en la nube"
+  ]
+
+contact:
+  email: EduardoArenas@escarcega.tecnm.mx
+ 
